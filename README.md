@@ -49,12 +49,3 @@ This repository contains a simple Client Management System implemented in PHP. T
 4. **Delete Client (delete.php)**
    - Click the "Delete" button next to a client on the index page.
    - Confirm the deletion to remove the client record.
-
-## Known Issues
-
-- No user authentication: The system currently lacks user authentication, making it unsuitable for deployment in a production environment.
-- Minimal error handling: The error handling is basic and may need improvement for a robust application.
-
-## Contributing
-
-Feel free to contribute to the development of this simple PHP Client Management System. Open issues or submit pull requests to suggest improvements or fix any existing problems.
