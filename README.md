@@ -1,4 +1,4 @@
-# CRUD-PHP
+# PHP-CRUD
 
 This repository contains a simple Client Management System implemented in PHP. The system allows users to perform basic CRUD (Create, Read, Update, Delete) operations on client records.
 
